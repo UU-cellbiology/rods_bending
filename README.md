@@ -25,4 +25,4 @@ Theory behind it is described in "[Theory of Elasticity](https://archive.org/det
 
 If you want to know more about banding rods (different clamping, following force, etc), I would recommend to read the book of E.V. Popov "Theory and calculation of flexible elastic rods", but it is available only [in Russian](http://katpyxa.info/software/rods_bending/Popov%20E.V.%20Teoriya%20i%20raschet%20gibkih%20uprugih%20sterzhnej%20(Nauka,%201986)(ru)(K)(600dpi)(T)(296s)_PCem_.djvu).
 
-<img src="http://katpyxa.info/software/rods_bending/popov.png" />
+<img src="http://katpyxa.info/software/rods_bending/popov.png" align="right" />
