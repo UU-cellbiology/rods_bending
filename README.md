@@ -7,7 +7,7 @@ It can handle large loads and nonlinear deformations of rod.
 
 It was developed to describe the shape of microtubules bending
 under the force of kinesins in this paper:   
-Doodhi H, Katrukha EA, Kapitein LC, Akhmanova A. [Mechanical and geometrical constraints control kinesin-based microtubule guidance.](http://www.ncbi.nlm.nih.gov/pubmed/24462000) Curr Biol. 2014 Feb 3;24(3):322-8.  
+Doodhi H, Katrukha EA, Kapitein LC, Akhmanova A. [Mechanical and geometrical constraints control kinesin-based microtubule guidance](http://www.ncbi.nlm.nih.gov/pubmed/24462000) Curr Biol. 2014 Feb 3;24(3):322-8.  
 
 
 <img src="http://katpyxa.info/software/rods_bending/rods_bending.gif"/> 
