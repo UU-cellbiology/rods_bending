@@ -31,5 +31,7 @@ If you want to know more about banding rods (different clamping, following force
 <br />
 <br />
 <br />
+<br />
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
 Developed in <a href='http://cellbiology.science.uu.nl/'>Cell Biology group</a> of Utrecht University.  
 E-mail <a href="mailto:katpyxa@gmail.com">for any questions</a>.
